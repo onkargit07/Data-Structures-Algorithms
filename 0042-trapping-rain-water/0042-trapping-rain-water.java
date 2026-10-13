@@ -1,0 +1,38 @@
+class Solution {
+    public static int[]  calculatePrefixMax(int[] height) {
+        int n =  height.length;
+        int[] prefixMax = new int[n];
+        prefixMax[0] = height[0];
+        for(int i=1;i<n;i++) {
+            prefixMax[i] = Math.max(prefixMax[i-1],height[i]);
+        }
+        return prefixMax;
+    }
+    public static int[] calculateSuffixMax(int[] height) {
+        int n = height.length;
+        int[] suffixMax = new int[n];
+        suffixMax[n-1] = height[n-1];
+        for(int i = n-2 ; i >= 0; i--) {
+            suffixMax[i] = Math.max(suffixMax[i+1], height[i]);
+        }
+        return suffixMax;
+    }
+    public static int calculateTrapingRainWater(int[] height,int[] prefixMax,int[] suffixMax) {
+        int totalWater =0;
+        for(int i=0;i<height.length;i++) {
+            int leftMax = prefixMax[i];
+            int rightMax = suffixMax[i];
+            if(height[i] < leftMax && height[i] < rightMax) {
+                totalWater+=Math.min(leftMax,rightMax) - height[i];
+            }
+        }
+        return totalWater;
+    }
+    public int trap(int[] height) {
+        int[] prefixMax =  calculatePrefixMax(height);
+        int[] suffixMax =  calculateSuffixMax(height);
+        int ans = calculateTrapingRainWater(height,prefixMax,suffixMax);
+
+        return ans;
+    }
+}
