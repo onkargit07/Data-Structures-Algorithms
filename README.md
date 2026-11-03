@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0079-word-search) |
 | [0162-find-peak-element](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
@@ -71,9 +72,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0079-word-search) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
