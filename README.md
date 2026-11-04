@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -87,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/0079-word-search) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/onkargit07/Data-Structures-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
